@@ -110,12 +110,12 @@ Now API is available at:
 
 ### 1. Tag image
 ```bash
-docker tag pdf-extractor-backend:latest <dockerhub_username>/pdf-extractor-backend:latest
+docker tag pdf-extractor-backend:latest dipeshydv/pdf-extractor-backend:latest
 ```
 
 ### 2. Push
 ```bash
-docker push <dockerhub_username>/pdf-extractor-backend:latest
+docker push dipeshydv/pdf-extractor-backend:latest
 ```
 
 ### 3. Pull (on server/other machine)
@@ -134,7 +134,9 @@ uvicorn[standard]
 python-multipart
 pdfplumber
 pillow
+pandas
 zipfile36
+pyMuPdf
 ```
 
 ---
