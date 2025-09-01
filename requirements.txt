@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+pillow
+pandas
+numpy
+zipfile36
+pyMuPdf
