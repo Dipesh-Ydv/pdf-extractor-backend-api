@@ -120,8 +120,8 @@ docker push <dockerhub_username>/pdf-extractor-backend:latest
 
 ### 3. Pull (on server/other machine)
 ```bash
-docker pull <dockerhub_username>/pdf-extractor-backend:latest
-docker run -d -p 8000:8000 <dockerhub_username>/pdf-extractor-backend:latest
+docker pull dipeshydv/pdf-extractor-backend:latest
+docker run -d -p 8000:8000 dipeshydv/pdf-extractor-backend:latest
 ```
 
 ---
