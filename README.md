@@ -45,7 +45,7 @@ pdf-extractor-backend/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/<your-username>/pdf-extractor-backend.git
+git clone https://github.com/Dipesh-Ydv/pdf-extractor-backend.git
 cd pdf-extractor-backend
 ```
 
